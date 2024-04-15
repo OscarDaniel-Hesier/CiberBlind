@@ -6,16 +6,16 @@ a,
 .single-table.featured .btn.btn-primary,
 .contact-info ul li a:hover,
 #footer .footer-bottom a  {
-  color:#00b3ff;
+  color:#9C0001;
 }
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #00b3ff
+  background-color: #9C0001
 }
 
 a:hover, a:focus {
-	color: #00b3ff;
+	color: #9C0001;
 }
 
 .main-nav,
@@ -34,7 +34,7 @@ a:hover, a:focus {
 .left-control:hover,
 .right-control:hover,
 .folio-overview a:hover {
-  background-color:#00b3ff;
+  background-color:#9C0001;
 }
 
 .twitter-left-control:hover,
