@@ -862,7 +862,7 @@ section {
 }
 
 .form-control {
-  background-color: white;
+  background-color: black;
   border-color: rgba(255,255,255,.1);
   height: 50px;
   border-radius: 0;
